@@ -1,0 +1,121 @@
+[
+    {
+        "id": 1,
+        "nama": "Besi Beton",
+        "deskripsi": "Berbagai ukuran (polos & ulir) untuk pondasi dan struktur.",
+        "gambarUrl": "https://placehold.co/600x400/e2e8f0/4a5568?text=Besi+Beton",
+        "kategori": "penulangan"
+    },
+    {
+        "id": 2,
+        "nama": "Wiremesh",
+        "deskripsi": "Untuk pengecoran plat lantai, jalan, dan berbagai kebutuhan.",
+        "gambarUrl": "https://placehold.co/600x400/e2e8f0/4a5568?text=Wiremesh",
+        "kategori": "penulangan"
+    },
+    {
+        "id": 3,
+        "nama": "Ring Cakar Ayam",
+        "deskripsi": "Struktur pondasi cakar ayam siap pakai berbagai ukuran.",
+        "gambarUrl": "/img/ringcakarayam.webp",
+        "kategori": "penulangan"
+    },
+    {
+        "id": 4,
+        "nama": "Pipa Besi",
+        "deskripsi": "Pipa besi hitam dan galvanis untuk saluran air atau konstruksi.",
+        "gambarUrl": "https://placehold.co/600x400/e2e8f0/4a5568?text=Pipa+Besi",
+        "kategori": "pipa"
+    },
+    {
+        "id": 5,
+        "nama": "Besi Hollow",
+        "deskripsi": "Pipa kotak hitam dan galvanis untuk pagar, kanopi, dan furnitur.",
+        "gambarUrl": "https://placehold.co/600x400/e2e8f0/4a5568?text=Besi+Hollow",
+        "kategori": "pipa"
+    },
+    {
+        "id": 6,
+        "nama": "Besi WF",
+        "deskripsi": "Wide Flange beam, profil H untuk balok dan kolom utama.",
+        "gambarUrl": "https://placehold.co/600x400/e2e8f0/4a5568?text=Besi+WF",
+        "kategori": "profil"
+    },
+    {
+        "id": 7,
+        "nama": "Besi H-Beam",
+        "deskripsi": "Profil H-Beam, ideal untuk kolom dan tiang pancang.",
+        "gambarUrl": "https://placehold.co/600x400/e2e8f0/4a5568?text=H-Beam",
+        "kategori": "profil"
+    },
+    {
+        "id": 8,
+        "nama": "Besi UNP",
+        "deskripsi": "Profil kanal U, sering digunakan untuk gording, purlin, dan member.",
+        "gambarUrl": "https://placehold.co/600x400/e2e8f0/4a5568?text=Besi+UNP",
+        "kategori": "profil"
+    },
+    {
+        "id": 9,
+        "nama": "Besi INP",
+        "deskripsi": "Profil balok I dengan variasi ukuran untuk berbagai konstruksi.",
+        "gambarUrl": "https://placehold.co/600x400/e2e8f0/4a5568?text=Besi+INP",
+        "kategori": "profil"
+    },
+    {
+        "id": 10,
+        "nama": "Besi Siku",
+        "deskripsi": "Sangat serbaguna untuk pembuatan rak, menara air, dan lainnya.",
+        "gambarUrl": "https://placehold.co/600x400/e2e8f0/4a5568?text=Besi+Siku",
+        "kategori": "profil"
+    },
+    {
+        "id": 11,
+        "nama": "Plat Eser",
+        "deskripsi": "Plat baja hitam dan galvanis (plat bordes) untuk lantai atau tangga.",
+        "gambarUrl": "https://placehold.co/600x400/e2e8f0/4a5568?text=Plat+Eser",
+        "kategori": "plat"
+    },
+    {
+        "id": 12,
+        "nama": "Bondek",
+        "deskripsi": "Plat lantai galvanis untuk efisiensi pengecoran dak beton.",
+        "gambarUrl": "/img/bondek.webp",
+        "kategori": "plat"
+    },
+    {
+        "id": 13,
+        "nama": "Atap UPVC",
+        "deskripsi": "Atap dingin, kedap suara, dan tahan lama untuk bangunan modern.",
+        "gambarUrl": "https://placehold.co/600x400/e2e8f0/4a5568?text=Atap+UPVC",
+        "kategori": "atap"
+    },
+    {
+        "id": 14,
+        "nama": "Atap Spandek",
+        "deskripsi": "Pilihan atap modern, tersedia tipe polos dan berpasir.",
+        "gambarUrl": "https://placehold.co/600x400/e2e8f0/4a5568?text=Atap+Spandek",
+        "kategori": "atap"
+    },
+    {
+        "id": 15,
+        "nama": "Baja Ringan",
+        "deskripsi": "Profil C (Canal) untuk konstruksi rangka atap yang kokoh.",
+        "gambarUrl": "https://placehold.co/600x400/e2e8f0/4a5568?text=Baja+Ringan",
+        "kategori": "atap"
+    },
+    {
+        "id": 16,
+        "nama": "Reng Baja Ringan",
+        "deskripsi": "Profil reng asimetris untuk dudukan genteng atau atap.",
+        "gambarUrl": "https://placehold.co/600x400/e2e8f0/4a5568?text=Reng",
+        "kategori": "atap"
+    },
+    {
+        "id": 17,
+        "nama": "Aksesoris Besi",
+        "deskripsi": "Berbagai aksesoris pelengkap untuk konstruksi dan fabrikasi.",
+        "gambarUrl": "https://placehold.co/600x400/e2e8f0/4a5568?text=Aksesoris",
+        "kategori": "aksesoris"
+    }
+]
