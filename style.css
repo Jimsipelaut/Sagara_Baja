@@ -1,0 +1,10 @@
+/* style.css */
+
+/* Atur tinggi minimal untuk iframe komentar Cusdis */
+#cusdis_thread iframe {
+    min-height: 550px !important;
+    --cusdis-accent: #2563EB;          /* Warna utama untuk tombol & link (blue-600) */
+  --cusdis-accent-light: #3B82F6;    /* Warna saat tombol di-hover (blue-500) */
+  --cusdis-text-color: #1f2937;      /* Warna teks utama (gray-800) */
+  --cusdis-background: #ffffff;     /* Warna latar belakang (putih) */
+}
