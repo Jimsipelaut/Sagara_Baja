@@ -1,0 +1,135 @@
+[
+    {
+        "id": 1,
+        "nama": "Besi Beton",
+        "deskripsi": "Berbagai ukuran (polos & ulir) untuk pondasi dan struktur.",
+        "gambarUrl": "/img/BesiBeton.webp",
+        "kategori": "penulangan"
+    },
+    {
+        "id": 2,
+        "nama": "Wiremesh",
+        "deskripsi": "Untuk pengecoran plat lantai, jalan, dan berbagai kebutuhan.",
+        "gambarUrl": "/img/Wiremesh.webp",
+        "kategori": "penulangan"
+    },
+    {
+        "id": 3,
+        "nama": "Ring Cakar Ayam",
+        "deskripsi": "Struktur pondasi cakar ayam siap pakai berbagai ukuran.",
+        "gambarUrl": "/img/ringcakarayam.webp",
+        "kategori": "penulangan"
+    },
+    {
+        "id": 4,
+        "nama": "Pipa Galvanis",
+        "deskripsi": "Pipa besi hitam dan galvanis untuk saluran air atau konstruksi.",
+        "gambarUrl": "/img/PipaGalvanis.webp",
+        "kategori": "pipa"
+    },
+    {
+        "id": 5,
+        "nama": "Hollo Hitam",
+        "deskripsi": "Pipa kotak hitam dan galvanis untuk pagar, kanopi, dan furnitur.",
+        "gambarUrl": "/img/HolloHitam.webp",
+        "kategori": "pipa"
+    },
+    {
+        "id": 6,
+        "nama": "Hollo Galvanis",
+        "deskripsi": "Pipa kotak hitam dan galvanis untuk pagar, kanopi, dan furnitur.",
+        "gambarUrl": "/img/HolloGalvanis.webp",
+        "kategori": "pipa"
+    },
+    {
+        "id": 7,
+        "nama": "Besi WF",
+        "deskripsi": "Wide Flange beam, profil H untuk balok dan kolom utama.",
+        "gambarUrl": "/img/BesiWF.webp",
+        "kategori": "profil"
+    },
+    {
+        "id": 8,
+        "nama": "Besi H-Beam",
+        "deskripsi": "Profil H-Beam, ideal untuk kolom dan tiang pancang.",
+        "gambarUrl": "/img/BesiHBEM.webp",
+        "kategori": "profil"
+    },
+    {
+        "id": 9,
+        "nama": "Besi UNP",
+        "deskripsi": "Profil kanal U, sering digunakan untuk gording, purlin, dan member.",
+        "gambarUrl": "/img/BesiUNP.webp",
+        "kategori": "profil"
+    },
+    {
+        "id": 10,
+        "nama": "Besi Siku",
+        "deskripsi": "Sangat serbaguna untuk pembuatan rak, menara air, dan lainnya.",
+        "gambarUrl": "/img/BesiSiku.webp",
+        "kategori": "profil"
+    },
+    {
+        "id": 11,
+        "nama": "Plat Eser Galvanis",
+        "deskripsi": "Plat baja hitam dan galvanis (plat bordes) untuk lantai atau tangga.",
+        "gambarUrl": "/img/PlatEserGalvanis.webp",
+        "kategori": "plat"
+    },
+    {
+        "id": 12,
+        "nama": "Bondek",
+        "deskripsi": "Plat lantai galvanis untuk efisiensi pengecoran dak beton.",
+        "gambarUrl": "/img/bondek.webp",
+        "kategori": "atap"
+    },
+    {
+        "id": 13,
+        "nama": "Atap UPVC Single",
+        "deskripsi": "Atap dingin, kedap suara, dan tahan lama untuk bangunan modern.",
+        "gambarUrl": "/img/AtapUPVCSingle.webp",
+        "kategori": "atap"
+    },
+    {
+        "id": 14,
+        "nama": "Atap UPVC Double",
+        "deskripsi": "Atap dingin, kedap suara, dan tahan lama untuk bangunan modern.",
+        "gambarUrl": "/img/AtapUPVCDouble.webp",
+        "kategori": "atap"
+    },
+    {
+        "id": 15,
+        "nama": "Atap Spandek Pasir",
+        "deskripsi": "Pilihan atap modern, tersedia tipe polos dan berpasir.",
+        "gambarUrl": "/img/SpandekPasir.webp",
+        "kategori": "atap"
+    },
+    {
+        "id": 16,
+        "nama": "Atap Spandek Polos",
+        "deskripsi": "Pilihan atap modern, tersedia tipe polos dan berpasir.",
+        "gambarUrl": "/img/SpandekPolos.webp",
+        "kategori": "atap"
+    },
+    {
+        "id": 17,
+        "nama": "Baja Ringan",
+        "deskripsi": "Profil C (Canal) untuk konstruksi rangka atap yang kokoh.",
+        "gambarUrl": "/img/BajaRingan.webp",
+        "kategori": "atap"
+    },
+    {
+        "id": 18,
+        "nama": "Seng Baja Ringan",
+        "deskripsi": "Profil Seng asimetris untuk dudukan genteng atau atap.",
+        "gambarUrl": "/img/SengBajaRingan.webp",
+        "kategori": "atap"
+    },
+    {
+        "id": 19,
+        "nama": "Aksesoris Besi",
+        "deskripsi": "Berbagai aksesoris pelengkap untuk konstruksi dan fabrikasi.",
+        "gambarUrl": "https://placehold.co/600x400/e2e8f0/4a5568?text=Aksesoris",
+        "kategori": "aksesoris"
+    }
+]
